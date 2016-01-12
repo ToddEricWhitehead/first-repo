@@ -1,2 +1,2 @@
 # first-repo
-First Repository - from get started.
+First Repository - from GitHub -> get started.
